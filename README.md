@@ -29,36 +29,7 @@ The throughline across all four: nothing here assumes you already know anything.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# forge
 
-An agent framework built around a strict split between how an agent behaves *within* a task (inner loop) and how it improves *across* tasks (outer loop). See `AGENTS.md` for the full philosophy — this README covers the practical side: the agent contract, how to run evals, and what the dashboard shows.
-
-## The outer-loop / inner-loop split
-
-The inner loop is a single agent run: it takes a task, works it, and produces a result. The outer loop sits above that — it's what accumulates memory across runs and feeds it back into future inner loops. Keeping these separate is a deliberate design choice, not an implementation detail; the reasoning for why is written up in full in `AGENTS.md`. Read that before touching either loop.
-
-## The agent contract
-
-Every agent lives in `agents/current/` and is defined by five files. Together, these five files are the contract — an agent isn't "done" until all five exist and agree with each other. Check that directory directly for the current file names and structure; this README won't drift out of sync with the code by trying to restate it here.
-
-## Running evals
-
-Two scripts matter day to day:
-
-```bash
-python evals/run_eval.py
-```
-Runs a single evaluation pass for an agent.
-
-```bash
-python evals/learning_curve.py --memory on
-python evals/learning_curve.py --memory off
-```
-Runs the same eval across multiple passes, with the outer-loop memory either enabled or disabled, so you can directly compare an agent with and without memory turned on.
-
-## Dashboard
-
-`dashboard/index.html` is a static file — there's no build step and no server to start. Open it directly in a browser and it reads from the ledger files to show run history and learning curves.
 
 ## Does the memory loop actually work?
 
