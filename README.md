@@ -1,44 +1,20 @@
-Start-Here
-Repository navigation
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security and quality
-Insights
-Settings
-Files
-Go to file
-t
-T
-README.md
-Start-Here
-/README.md
-alex-somers
-alex-somers
-Update README.md
-0a28ac2
- · 
-now
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-Preview
+# Me!
 
-Code
-
-Blame
-30 lines (18 loc) · 2.65 KB
-Me!
 DECA President, Young Investment Society CFO, The Unspoken Project Co-Founder and Board Member, Rice Business Case Champion, Eagle Scout, NHS member, National circuit debater, Harvard SA Economics and Finance Scholar, UPenn Wharton YIC Scholar and Competitor, NHS member, Finance Club Member, 300 hours of service, Finance enthusiast.
 
 Currently: leveling the playing field of literacy in finance through Finance for Others (abv. ffo), a non-profit initiative that blends AI with real people to create real results. Read below.
 
 Building in: .jsx, .tsx, .js, .py
 
-Socials: --- Insta: @tripp_somers, or @financeforothers. --- LinkedIn: @alexander "tripp" somers, or @Finance for Others, or @Mochi, or @The Unspoken Project. --- You've already found the GitHub, good on you!
+Socials: --- Insta: @tripp_somers, or @financeforothers. --- LinkedIn: @alexander "tripp" somers, or @Finance for Others, or @Mochi, or @The Unspoken Project. --- You've already found the GitHub, good on you! 
 
-ffo!
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# ffo!
+
 Finance for Others is a nonprofit built on a simple idea: understanding money shouldn't depend on who you know or where you grew up. Right now, financial literacy is one of the strongest predictors of long-term stability — but it's also one of the most unevenly taught. Some people grow up with parents who explain credit scores and investing at the dinner table; most people don't.
 
 FFO tries to close that gap in four ways:
@@ -47,4 +23,4 @@ Courses — Free, AI-guided lessons on budgeting, credit, investing, and markets
 
 The throughline across all four: nothing here assumes you already know anything. It's built for the person who's curious about money but has never been handed a way in — and it's all free.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------
