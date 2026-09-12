@@ -31,17 +31,7 @@ The throughline across all four: nothing here assumes you already know anything.
 
 
 
-## Does the memory loop actually work?
-
-Pulled straight from `ledger/learning_curves/github_triage_memory_{on,off}.jsonl`:
-
-| Pass | Memory ON (holdout accuracy) | Memory OFF (holdout accuracy) | Memory size (entries) |
-|------|-------------------------------|--------------------------------|-------------------------|
-| 1    | 28.6%                         | 28.6%                          | 44                       |
-| 2    | 42.9%                         | 28.6%                          | 65                       |
-| 3    | 35.7%                         | 28.6%                          | 80                       |
-
-Memory-on climbs then dips; memory-off stays completely flat. That's a real signal that memory is *doing something* — but this is a 14-task holdout split, so each task is worth ~7 percentage points. A single task flipping accounts for most of that swing. Treat this as a promising early result, not a validated trend, until it's been run on a larger holdout.
+gle task flipping accounts for most of that swing. Treat this as a promising early result, not a validated trend, until it's been run on a larger holdout.
 
 ## Known issues
 
