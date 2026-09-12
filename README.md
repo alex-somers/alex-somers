@@ -28,14 +28,3 @@ Publications & Podcast — Plain-language writing on markets and economics, plus
 The throughline across all four: nothing here assumes you already know anything. It's built for the person who's curious about money but has never been handed a way in — and it's all free.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-gle task flipping accounts for most of that swing. Treat this as a promising early result, not a validated trend, until it's been run on a larger holdout.
-
-## Known issues
-
-- **`cost_per_task` reads 0.0 across the entire committed ledger.** This is a pricing bug — `PRICING_PER_MTOK` is missing an entry for `claude-sonnet-4-6`. The fix exists on `ao/forge-38/fix-sonnet-4-6-pricing` but hasn't merged yet, so the current ledger predates it. Don't cite the cost numbers in the ledger as evidence of anything until that fix lands and the ledger is regenerated.
-- **`coderepair`'s learning-curve ledger files are empty (0 lines).** No full run has happened for that domain yet — there's no data to draw conclusions from there.
-
-------------------------------------------------------------------------------------------------------------------------------------------------
