@@ -2,7 +2,9 @@
 
 # Me!
 
-DECA President, Young Investment Society CFO, The Unspoken Project Co-Founder and Board Member, Rice Business Case Champion, Eagle Scout, NHS member, National circuit debater, Harvard SA Economics and Finance Scholar, UPenn Wharton YIC Scholar and Competitor, NHS member, Finance Club Member, 300 hours of service, Finance enthusiast.
+Hello! My name is Alexander "Tripp" Somers. I am a student learning how to code. 
+
+I am the VP of SJ's DECA Chapter, an ethics officer
 
 Currently: leveling the playing field of literacy in finance through Finance for Others (abv. ffo), a non-profit initiative that blends AI with real people to create real results. Read below.
 
