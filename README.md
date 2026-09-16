@@ -10,8 +10,7 @@ Currently: leveling the playing field of literacy in finance through Finance for
 
 Building in: .jsx, .tsx, .js, .py
 
-Socials: --- Insta: @tripp_somers, or @financeforothers. --- LinkedIn: @alexander "tripp" somers, or @Finance for Others, or @Mochi, or @The Unspoken Project. --- You've already found the GitHub, good on you! 
-
+Socials: --- Insta: @tripp_somers, or @financeforothers. --- LinkedIn: @alexander "tripp" somers, or @Finance for Others, or @Mochi, or @The Unspoken Project. 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
