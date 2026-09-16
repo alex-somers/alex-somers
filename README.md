@@ -4,7 +4,7 @@
 
 Hello! My name is Alexander "Tripp" Somers. I am a student learning how to code. 
 
-I am the VP of SJ's DECA Chapter, an ethics officer
+I am the VP of SJ's DECA chapter (increased membership by 400%), an ethics officer and freshman coach for SJ's debate team (ranked 1st in the nation - PF), a Student Advisee to the Board of Directors (SJ), a National Honor Society member, an AP scholar and much more.
 
 Currently: leveling the playing field of literacy in finance through Finance for Others (abv. ffo), a non-profit initiative that blends AI with real people to create real results. Read below.
 
